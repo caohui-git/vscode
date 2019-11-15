@@ -8,7 +8,7 @@
             "command": "clang++",
             "type": "shell",
             "args": [
-                "binaryTree_Traversing.cpp",
+                "TSP_DP.cpp",
                 "-std=c++11",
                 "-g"
             ],
